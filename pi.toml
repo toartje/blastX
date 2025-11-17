@@ -1,0 +1,10 @@
+NETWORK_PASSPHRASE="Pi Testnet"
+HORIZON_URL="https://api.testnet.minepi.com"
+
+[[CURRENCIES]]
+code="BLASTX"
+issuer="GDKCRGBQPBJLWC5ZDLC66K7DVGHO5QX6REU3Z6AAPPAUHDO3362UVR7A"
+name="BlastX Token"
+desc="Community gaming utility token on Pi Testnet"
+image="https://raw.githubusercontent.com/toartje/blast-logo/main/.well-known/blast-logo.png"
+
